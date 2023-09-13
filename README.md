@@ -2,7 +2,7 @@
 
 The source code in this repository corresponds to the following videos:
 
-* [Part 1 - 1 DoF](TODO)
+* [Part 1 - 1 DoF](https://youtu.be/VTyuRj0TDcM)
 * [Part 2 - 2 DoF](TODO)
 
 # License #
