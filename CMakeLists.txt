@@ -2,7 +2,7 @@ include(FetchContent)
 FetchContent_Declare(
   moteus
   GIT_REPOSITORY https://github.com/mjbots/moteus.git
-  GIT_TAG        25c847a7b7b739aa00d4f9a1a30fb041f2ce7a7b
+  GIT_TAG        d603f9b96c18e02b84a6456a13b0b67e42c4d5e2
 )
 
 FetchContent_MakeAvailable(moteus)
